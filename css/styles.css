@@ -1,0 +1,17 @@
+#projects_page img {
+	height:100%;
+    width:100%;
+}
+
+hr {
+	border: 1.2px solid #428bca;
+}
+
+h3 {
+	color: #428bca;
+}
+
+.container {
+
+	max-width: 950px;
+}
