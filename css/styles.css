@@ -4,15 +4,15 @@
 }
 
 .nav a {
-  color: purple;
+  color: black;
 }
 
 hr {
-	border: 1.2px solid purple;
+	border: 1.2px solid green;
 }
 
 h3 {
-	color: purple;
+	color: green;
 }
 
 .container {
@@ -20,17 +20,17 @@ h3 {
 }
 
 .active {
-  background: purple;
+  background: green;
 }
 #about_page {
   text-align: justify;
 }
 
 .nav-pills > li.active > a, .nav-pills > li.active > a:hover, .nav-pills > li.active > a:focus {
-    background-color: purple;
+    background-color: green;
     color: #fff;
 }
 
 #notes_page a {
-  color: purple;
+  color: blue;
 }
