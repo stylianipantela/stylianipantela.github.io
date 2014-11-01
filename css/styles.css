@@ -1,21 +1,36 @@
 #projects_page img {
 	height:100%;
-    width:100%;
+  width:100%;
+}
+
+.nav a {
+  color: purple;
 }
 
 hr {
-	border: 1.2px solid #428bca;
+	border: 1.2px solid purple;
 }
 
 h3 {
-	color: #428bca;
+	color: purple;
 }
 
 .container {
-
 	max-width: 950px;
 }
 
+.active {
+  background: purple;
+}
 #about_page {
   text-align: justify;
+}
+
+.nav-pills > li.active > a, .nav-pills > li.active > a:hover, .nav-pills > li.active > a:focus {
+    background-color: purple;
+    color: #fff;
+}
+
+#notes_page a {
+  color: purple;
 }
