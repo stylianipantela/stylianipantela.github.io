@@ -8,11 +8,11 @@
 }
 
 hr {
-	border: 1.2px solid green;
+	border: 1.2px solid #428bca;
 }
 
 h3 {
-	color: green;
+	color: #428bca;
 }
 
 .container {
@@ -20,17 +20,17 @@ h3 {
 }
 
 .active {
-  background: green;
+  background: #428bca;
 }
 #about_page {
   text-align: justify;
 }
 
 .nav-pills > li.active > a, .nav-pills > li.active > a:hover, .nav-pills > li.active > a:focus {
-    background-color: green;
+    background-color: #428bca;
     color: #fff;
 }
 
 #notes_page a {
-  color: blue;
+  color: #428bca;
 }
