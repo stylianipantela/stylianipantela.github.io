@@ -1,0 +1,36 @@
+#projects_page img {
+	height:100%;
+  width:100%;
+}
+
+.nav a {
+  color: black;
+}
+
+hr {
+	border: 1.2px solid #428bca;
+}
+
+h3 {
+	color: #428bca;
+}
+
+.container {
+	max-width: 950px;
+}
+
+.active {
+  background: #428bca;
+}
+#about_page {
+  text-align: justify;
+}
+
+.nav-pills > li.active > a, .nav-pills > li.active > a:hover, .nav-pills > li.active > a:focus {
+    background-color: #428bca;
+    color: #fff;
+}
+
+#notes_page a {
+  color: #428bca;
+}
